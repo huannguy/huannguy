@@ -1,4 +1,4 @@
-<h1> Hi there! I am Huan</h1> 
+<h1 align="center"> Hi there! I am Huan</h1> 
 
 <!--
 **huannguy/huannguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
