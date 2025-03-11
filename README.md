@@ -18,7 +18,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,java,postgres"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,idea"/>
+  <img src="https://skillicons.dev/icons?i=linux,windows"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp"/>
   <br/>
