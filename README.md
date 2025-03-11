@@ -12,5 +12,14 @@
   <a href="mailto:nhuan915@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-    
+</p>
+
+<h3>- Languages and Tools -</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,postgres"/>
+  <img src="https://skillicons.dev/icons?i=linux,windows"/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
+  <br/>
 </p>
