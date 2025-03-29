@@ -1,8 +1,8 @@
-<h1 align="center"> Hi there! I am Huan</h1> 
+<h1 align="center"> Hi there! I am Huan!</h1> 
 
-<p align="center"> I am computer science student at Portland State University </p>
+<p align="center"> I am a computer science undergraduate at Portland State University with </p>
 
-<h3> Contact with me on </h3>
+<h3> Connect with me on </h3>
 
 <p> 
   <a href="https://www.linkedin.com/in/huan-nguyen-302691280/" target="_blank">
