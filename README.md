@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! I am Huan!</h1> 
 
-<p align="center"> I am a computer science undergraduate at Portland State University with </p>
+<p align="center"> I am a computer science undergraduate at Portland State University </p>
 
 <h3> Connect with me on </h3>
 
